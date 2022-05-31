@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/insert
+Content-Type: application/json
+{
+    "trackId": "3496416092022040712616620222",
+    "process_name": "Clear",
+    "work_location": "Rangpur",
+    "file_base64_string": "abcdef"
+}

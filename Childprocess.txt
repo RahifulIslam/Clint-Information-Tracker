@@ -1,0 +1,3 @@
+1. raw JS file-execute shell command using child process.
+2. execute shell command using spawn
+3. how to excc to show in browser.
